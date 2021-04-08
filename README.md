@@ -32,11 +32,11 @@ Add following code to your readme.
 Change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ## Use theme
@@ -44,7 +44,7 @@ Change the `?username=` value to your GitHub's username.
 Add optional parameter of theme.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
@@ -105,7 +105,7 @@ Therefore, if you come up with interesting conditions, I am waiting for contribu
 You can filter the display by specifying the titles of trophy.  
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&title=Followers
 ```
 
 <p align="center">
@@ -115,7 +115,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
 If You want to specify multiple titles.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&title=Stars,Followers
 ```
 
 ## Filter by ranks
@@ -124,7 +124,7 @@ You can filter the display by specifying the ranks.
 `Available values: SECRET SSS SS S AAA AA A B C`
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&rank=S
 ```
 <p align="center">
   <img width="110" src="https://user-images.githubusercontent.com/6661165/91642657-1cdd8780-ea68-11ea-994b-4568a55cd22a.png" />
@@ -133,7 +133,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
 If you want to specify multiple ranks.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
+https://github-profile-trophy.vercel.app/imcoffeevin06imcoffeevin06=ryo-ma&rank=S,AAA
 ```
 
 ## Specify the maximum row & column size
@@ -146,17 +146,17 @@ Trophy will be hidden if it exceeds the range of both row and column.
 
 Restrict only row
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2
+https://github-profile-trophy.vercel.app/imcoffeevin06imcoffeevin06=ryo-ma&row=2
 ```
 
 Restrict only column
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&column=2
 ```
 
 Restrict row & column
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&row=2&column=3
 ```
 
 <p align="center">
@@ -186,7 +186,7 @@ Available themes.
 ### flat
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&theme=flat
 ```
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92325601-039b9300-f087-11ea-983a-fce8133549ee.png">
@@ -195,7 +195,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
 ### onedark
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&theme=onedark
 ```
 
 <p align="center">
@@ -205,7 +205,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 ### gruvbox
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+https://github-profile-trophy.vercel.app/imcoffeevin06=ryo-ma&theme=gruvbox
 ```
 
 <p align="center">
