@@ -7,7 +7,23 @@ Generate your metrics that you can embed everywhere, including your GitHub profi
 
 <sup>*⚠️ This is the documentation of **v3.7-beta** (`@master` branch) which includes [unreleased features](https://github.com/lowlighter/metrics/compare/latest...master), see documentation of **v3.6** (`@latest` branch) [here](https://github.com/lowlighter/metrics/blob/latest/README.md).*</sup>
 
-
+Overall users reactions from last 100 comments
+❤️
+19 %
+👍
+69 %
+👎
+0 %
+😄
+0 %
+😕
+0 %
+👀
+0 %
+🚀
+0 %
+🎉
+12 %
 <table>
   <tr>
     <th align="center">For user accounts</th>
