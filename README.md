@@ -1,14 +1,6 @@
 ## Hi there &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
-Yo! I'm Kevin Santos, a Mobile and Web Developer from the Philippines. Im studying at [Bulacan State University](https://goo.gl/maps/QYWhjQ2iYtbaAHZn6) 
-
-
-
-
-
-
-
-deployed as a Contractor for [Sunlife PH](https://www.sunlife.com.ph/en/). I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). During my spare time I self-study Flutter development :man_teacher:
+Yo! I'm Kevin Santos, a Mobile and Web Developer from the Philippines. Im a current university student enrolled in Bachelor of Industrial Technology Majoy in Computer Technology at [Bulacan State University](https://goo.gl/maps/QYWhjQ2iYtbaAHZn6)www.During my spare time I self-study Web Development :man_teacher:
 
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
