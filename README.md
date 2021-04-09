@@ -32,14 +32,14 @@ how to develop using mongoDB and NodeJS
 <hr>
 
 ## 📫 How to reach me:
-📧 admiralkevin06@gmail.com  
-🗨️ Discord: Microsoft#3036  
-<a href="https://www.linkedin.com/in/nichole-john-talban-romero/" target="_blank">
-  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" />
-</a>
-<a href="https://twitter.com/nickrdev" target="_blank">
-  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-16x16.png" />
-</a>
+<a href="https://www.facebook.com/ImCoffee.vin" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="40" height="40"/> </a>
+<a href="https://twitter.com/ImCoffeevin06" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/> </a>
+
+
+
+
 
 <br />
 
@@ -49,5 +49,3 @@ how to develop using mongoDB and NodeJS
 
 
 
-<a href="https://www.facebook.com/ImCoffee.vin" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Fb" width="40" height="40"/> </a>
