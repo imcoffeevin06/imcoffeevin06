@@ -6,11 +6,12 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 
 
 
+<hr>
 
 ### 📚 I’m currently learning
 how to develop using mongoDB and NodeJS
 
-
+<hr>
 
 
 
