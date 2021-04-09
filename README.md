@@ -29,8 +29,8 @@ how to develop using mongoDB and NodeJS
   <a href="https://twitter.com/ImCoffeevin06" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/> </a>
   <a href="https://gmail.com/admiralkevin06" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Twitter" width="40" height="40"/> </a>
-  <a href=" "target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="40" height="40"/> </a>
+  <a href="mailto:admiralkevin06@gmail.com"target="_blank">
   <img src=" ">
 
 
