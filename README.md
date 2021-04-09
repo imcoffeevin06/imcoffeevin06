@@ -46,7 +46,7 @@ how to develop using mongoDB and NodeJS
 
 
 <br />
-
+<hr>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imcoffeevin06&show_icons=true&theme=highcontrast" alt="imcoffeevin06 github stats" /> </p>
 
 
