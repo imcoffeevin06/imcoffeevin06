@@ -12,7 +12,9 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 <p align="center">
  Bulacan State University
  <br>
- Bachelor of Industrial Technology 
+ 
+##Bachelor of Industrial Technology 
+
  <br>
  Major in Computer Technology
  <br>
@@ -26,6 +28,8 @@ how to develop using mongoDB and NodeJS
 <hr>
 
 ## 📫 How to reach me:
+<a href="https://discordapp.com/users/606436252425781287" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" width="40" height="40"/> </a>
 <a href="https://www.facebook.com/ImCoffee.vin" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Fb" width="40" height="40"/> </a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=admiralkevin06@gmail.com&tf=cm" target="_blank"> 
