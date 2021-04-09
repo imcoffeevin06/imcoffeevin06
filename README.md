@@ -5,8 +5,10 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 
-### 🎓🔭 I’m Currently Studying At
+### 🎓 I’m Currently Studying At
 [Bulacan State University]( https://goo.gl/maps/QYWhjQ2iYtbaAHZn6) 
+Bachelor of Industrial Technology Major in Computer Technology
+2019-2022
 
 
 ### 📚 I’m currently learning
