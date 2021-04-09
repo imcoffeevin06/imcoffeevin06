@@ -8,13 +8,6 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 
 <hr>
 
-### 📚 I’m currently learning
-how to develop using mongoDB and NodeJS
-
-<hr>
-
-
-
 ### 🎓 Education
 <p align="center">
  Bulacan State University
@@ -22,6 +15,15 @@ how to develop using mongoDB and NodeJS
  Bachelor of Industrial Technology Major in Computer Technology
  <br>
  2019-2022</p>
+
+
+
+<hr>
+
+### 📚 I’m currently learning
+how to develop using mongoDB and NodeJS
+
+
 
 <hr>
 
