@@ -1,19 +1,51 @@
-<h1 align="center">Hi 👋, I'm Kevin Santos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imcoffeevin06&label=Profile%20views&color=0e75b6&style=flat" alt="imcoffeevin06" /> </p>
+Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a UI Developer, formerly a Mobile Support Consultant, :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) deployed as a Contractor for [Sunlife PH](https://www.sunlife.com.ph/en/). I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). During my spare time I self-study Flutter development :man_teacher:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
-- Email me at **admiralkevin06@gmail.com**
+header {
+  background-color: rgb(12, 134, 143);
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  color : white;
+}
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/imcoffee.vin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imcoffee.vin" height="30" width="40" /></a>
-<a href="https://discord.gg/J7pErptqtg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="J7pErptqtg" height="30" width="40" /></a>
-</p>
+### 🔭 I’m currently working on
+some projects using Flutter.  
+and also doing some clone of famous apps  
+[Grab Food UI Clone](https://github.com/boringdeveloper/GrabFoodUI)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🌱 I’m currently learning
+how to develop using Angular and NodeJS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imcoffeevin06&show_icons=true&locale=en" alt="imcoffeevin06" /></p>
+### 👯 I’m looking to collaborate on
+[Flutter Switch](https://github.com/boringdeveloper/FlutterSwitch), a custom Switch widget package created for Flutter.
+
+### 💻 I'm using these languages and tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
+### 📫 How to reach me:
+📧 admiralkevin06@gmail.com  
+🗨️ Discord: Microsoft#3036  
+<a href="https://www.linkedin.com/in/nichole-john-talban-romero/" target="_blank">
+  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" />
+</a>
+<a href="https://twitter.com/nickrdev" target="_blank">
+  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-16x16.png" />
+</a>
+
+<br />
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=boringdeveloper&theme=nord&no-frame=true" alt="boringdeveloper achievements" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=boringdeveloper&show_icons=true&theme=dracula" alt="boringdeveloper github stats" /> </p>
