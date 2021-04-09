@@ -6,12 +6,11 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 
 
 ### 🔭 I’m Currently Studying At
-<p align="center"> [Bulacan State University]( https://goo.gl/maps/QYWhjQ2iYtbaAHZn6)  </p>
 [Bulacan State University]( https://goo.gl/maps/QYWhjQ2iYtbaAHZn6) 
 
 
 ### 🌱 I’m currently learning
-how to develop using Angular and NodeJS
+how to develop using mongoDB and NodeJS
 
 ### 👯 I’m looking to collaborate on
 [Flutter Switch](https://github.com/boringdeveloper/FlutterSwitch), a custom Switch widget package created for Flutter.
