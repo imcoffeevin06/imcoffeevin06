@@ -6,7 +6,7 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 
 
 ### 🔭 I’m Currently Studying At
-<li>[Bulacan State University](https://goo.gl/maps/QYWhjQ2iYtbaAHZn6)</li>
+<li> [Bulacan State University]( https://goo.gl/maps/QYWhjQ2iYtbaAHZn6) </li>
 
 
 
