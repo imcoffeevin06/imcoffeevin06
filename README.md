@@ -1,11 +1,11 @@
 ## Hi there &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
-Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philippines. Im a current university student enrolled in Bachelor of Industrial Technology Majoy in Computer Technology at [Bulacan State University](https://goo.gl/maps/QYWhjQ2iYtbaAHZn6) During my spare time I self-study Web Development :man_teacher:
+Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philippines. Im a current university student enrolled in Bachelor of Industrial Technology Majoy in Computer Technology. During my spare time I self-study Web Development :man_teacher:
 
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 
-### 🔭 I’M CURRENTLY STUDYING AT
+### 🔭 I’m Currently Studying At
 [Bulacan State University](https://goo.gl/maps/QYWhjQ2iYtbaAHZn6)
 
 
