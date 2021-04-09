@@ -17,7 +17,7 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 2019-2022</p>
 
 ### 📚 I’m currently learning
-..*how to develop using mongoDB and NodeJS.
+-how to develop using mongoDB and NodeJS.
 
 
 ### 💻 I'm using these languages and tools
