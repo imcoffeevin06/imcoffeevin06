@@ -5,7 +5,7 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 
-### 🎓 I’m Currently Studying At
+### 🎓 Education
 <p align="center">Bachelor of Industrial Technology Major in Computer Technology
 <br> 2019-2022</p>
   <br>
