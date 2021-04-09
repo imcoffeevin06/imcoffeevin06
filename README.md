@@ -9,11 +9,12 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
 
 ### 🎓 Education
 <p align="center">
- Bulacan State University
+ Bachelor of Industrial Technology
 <br>
- Bachelor of Industrial Technology<br>
  Major in Computer Technology
  <br>
+Bulacan State University
+<br
 2019-2022</p>
 
 ### 📚 I’m currently learning
