@@ -32,7 +32,7 @@ how to develop using mongoDB and NodeJS
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/> </a>
   <a href="https://gmail.com/admiralkevin06" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="40" height="40"/> </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHXxbkdXZbrlwKwBngLHKfZfcgFxWwcPgNGhStnpXfCgjdVsbtfhnLGlnCTMvKVHRfWhP" target="_blank">click here</a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=admiralkevin06@gmail.com&tf=cm" target="_blank">click here</a>
  
 
 
