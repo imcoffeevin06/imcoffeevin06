@@ -13,6 +13,7 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
  Bulacan State University
  <br>
  Bachelor of Industrial Technology 
+ <br>
  Major in Computer Technology
  <br>
  2019-2022</p>
@@ -31,7 +32,7 @@ how to develop using mongoDB and NodeJS
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/> </a>
   <a href="https://gmail.com/admiralkevin06" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="40" height="40"/> </a>
-  <a href="mailto:admiralkevin06@gmail.com">click here</a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHXxbkdXZbrlwKwBngLHKfZfcgFxWwcPgNGhStnpXfCgjdVsbtfhnLGlnCTMvKVHRfWhP" target="_blank">click here</a>
  
 
 
