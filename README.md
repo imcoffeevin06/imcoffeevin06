@@ -14,10 +14,10 @@ Yo! I'm Kevin Santos, A Computer Technician and A Web Developer from the Philipp
  Bachelor of Industrial Technology 
  Major in Computer Technology
  <br>
- **2019-2022</p>
+2019-2022</p>
 
 ### 📚 I’m currently learning
-*how to develop using mongoDB and NodeJS
+..*how to develop using mongoDB and NodeJS
 
 
 ### 💻 I'm using these languages and tools
